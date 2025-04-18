@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/banner.png" alt="GitHub Banner" style="width:100%; max-width:1000px;" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/banner.png" alt="GitHub Banner" style="width:100%; max-width:1000px;" />
+  <img src="https://raw.githubusercontent.com/Bilal-Ahmed-1/Bilal-Ahmed-1/main/Navy Blue Geometric Technology LinkedIn Banner (1).png" alt="GitHub Banner" style="width:100%; max-width:1000px;" />
 </p>
 
 
