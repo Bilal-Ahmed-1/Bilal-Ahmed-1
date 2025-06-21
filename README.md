@@ -25,7 +25,7 @@
 - 🔭 Working on **Gen AI tool integrations in Laravel backends**
 - 💾 Skilled in **MySQL & MSSQL** design & optimization
 - 👨‍💻 Past frontend experience: **JavaScript, Vue.js, HTML/CSS, Tailwind**
-- 📬 Reach me: **[bilalahmed.dev@gmail.com](mailto:bilalahmed.dev@gmail.com)**
+- 📬 Reach me: **[bilalahmed082000@gmail.com](mailto:bilalahmed082000@gmail.com)**
 - 🎯 Goal: Become an **AI-Backend Integration Expert** by 2025
 
 ---
