@@ -564,11 +564,13 @@ Replace `BilalAhmed-Dev` with your GitHub username in the image URLs
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 <br>
 
 ### 🎯 **Core Values**
 
+<div align="center">
+  
 | Value | Description |
 |:------|:------------|
 | **💡 Innovation** | Embracing new technologies and creative problem-solving |
