@@ -381,7 +381,7 @@ console.log(`${bilalAhmed.role} ready to innovate! 🚀`);
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BilalAhmed-Dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Bilal-Ahmed-1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -398,10 +398,6 @@ console.log(`${bilalAhmed.role} ready to innovate! 🚀`);
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ![snake gif](https://github.com/Bilal-Ahmed-1/Bilal-Ahmed-1/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br><br>
-
-<br>
 
 > 💡 **The snake eats my contributions every 12 hours automatically via GitHub Actions!**
 
