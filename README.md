@@ -526,33 +526,33 @@ Replace `Bilal-Ahmed-1` with your GitHub username in the image URLs
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║                    💻 MY DEVELOPMENT PHILOSOPHY 💻                        ║
+║                    💻 MY DEVELOPMENT PHILOSOPHY 💻                       ║
 ║                                                                           ║
-║  "Code is not just about making things work—it's about building          ║
-║   systems that scale, adapt, and empower users to achieve more."         ║
+║  "Code is not just about making things work—it's about building           ║
+║   systems that scale, adapt, and empower users to achieve more."          ║
 ║                                                                           ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     ║
 ║                                                                           ║
 ║  🚀  Innovation through intelligent automation                           ║
-║      → Automate repetitive tasks to focus on creative solutions          ║
+║      → Automate repetitive tasks to focus on creative solutions           ║
 ║                                                                           ║
-║  🛠️   Quality over quantity, always                                       ║
-║      → Write clean, maintainable, and well-documented code               ║
+║  🛠️   Quality over quantity, always                                      ║
+║      → Write clean, maintainable, and well-documented code                ║
 ║                                                                           ║
 ║  🤖  AI isn't the future—it's the present                                ║
-║      → Integrate ML/AI to build smarter applications today               ║
+║      → Integrate ML/AI to build smarter applications today                ║
 ║                                                                           ║
 ║  📈  Continuous learning, continuous growth                              ║
-║      → Stay updated with latest technologies and best practices          ║
+║      → Stay updated with latest technologies and best practices           ║
 ║                                                                           ║
-║  🔒  Security first, always                                              ║
-║      → Build secure systems from the ground up                           ║
+║  🔒  Security first, always                                               ║
+║      → Build secure systems from the ground up                            ║
 ║                                                                           ║
 ║  🌐  Think global, code scalable                                         ║
-║      → Design systems that can handle millions of users                  ║
+║      → Design systems that can handle millions of users                   ║
 ║                                                                           ║
 ║  🤝  Collaboration drives innovation                                     ║
-║      → Share knowledge and learn from the community                      ║
+║      → Share knowledge and learn from the community                       ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -666,17 +666,19 @@ Replace `Bilal-Ahmed-1` with your GitHub username in the image URLs
 
 <br>
 
+<div align="center">
+
 ### 📍 **Contact Information**
 
-```yaml
-📧 Primary Email    : bilalahmed082000@gmail.com
-💼 LinkedIn         : linkedin.com/in/bilal-ahmed-720630246
-🌐 Portfolio        : your-portfolio-url.com
-📍 Location         : Karachi, Pakistan 🇵🇰
-🕐 Timezone         : PKT (UTC+5)
-💬 Preferred Contact: Email / LinkedIn
-🌍 Languages        : English, Urdu
-```
+📧 **Primary Email:** [bilalahmed082000@gmail.com](mailto:bilalahmed082000@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/bilal-ahmed-720630246](https://linkedin.com/in/bilal-ahmed-720630246)  
+🌐 **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com)  
+📍 **Location:** Karachi, Pakistan 🇵🇰  
+🕐 **Timezone:** PKT (UTC+5)  
+💬 **Preferred Contact:** Email / LinkedIn  
+🌍 **Languages:** English, Urdu  
+
+</div>
 
 </div>
 
@@ -703,11 +705,16 @@ Replace `Bilal-Ahmed-1` with your GitHub username in the image URLs
 
 <br>
 
-**Your support helps me:**
-- 💻 Develop more open-source projects
-- 📚 Create educational content and tutorials
-- 🚀 Contribute to the developer community
-- ⚡ Maintain and improve existing projects
+<div align="center">
+
+### 💖 **Your Support Helps Me:**
+
+💻 **Develop** more open-source projects  
+📚 **Create** educational content and tutorials  
+🚀 **Contribute** to the developer community  
+⚡ **Maintain** and improve existing projects  
+
+</div>
 
 </div>
 
@@ -902,22 +909,22 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60">&nbsp;
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" alt="Blog Animation"><br>
 <b>LATEST FROM MY BLOG</b>
-
 <br><br>
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable APIs with Laravel and Docker](https://dev.to/bilalahmed)
-- 🔧 [MySQL Query Optimization: A Practical Guide](https://medium.com/@bilalahmed)
-- 🤖 [Integrating OpenAI GPT into Laravel Applications](https://hashnode.com/@bilalahmed)
-- 🐳 [Docker Best Practices for PHP Developers](https://dev.to/bilalahmed)
-- 📊 [Database Indexing Strategies for High Performance](https://medium.com/@bilalahmed)
+🚀 <a href="https://dev.to/bilalahmed" target="_blank">Building Scalable APIs with Laravel and Docker</a><br>
+🔧 <a href="https://medium.com/@bilalahmed" target="_blank">MySQL Query Optimization: A Practical Guide</a><br>
+🤖 <a href="https://hashnode.com/@bilalahmed" target="_blank">Integrating OpenAI GPT into Laravel Applications</a><br>
+🐳 <a href="https://dev.to/bilalahmed" target="_blank">Docker Best Practices for PHP Developers</a><br>
+📊 <a href="https://medium.com/@bilalahmed" target="_blank">Database Indexing Strategies for High Performance</a><br>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
-> 📝 **Want to see more?** Visit my [Medium](https://medium.com/@Bilal-Ahmed-1) or [Dev.to](https://dev.to/bilalahmed_dev) profile!
+> 📝 **Want to see more?**  
+> Visit my <a href="https://medium.com/@Bilal-Ahmed-1" target="_blank">Medium</a> or <a href="https://dev.to/bilalahmed_dev" target="_blank">Dev.to</a> profile!
 
 </div>
 
@@ -996,9 +1003,9 @@ Current Focus:
 ```ascii
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
-║     Thanks for stopping by! Feel free to explore      ║
-║     my repositories, fork projects, and reach out     ║
-║     if you'd like to collaborate or chat about        ║
+║     Thanks for stopping by! Feel free to explore       ║
+║     my repositories, fork projects, and reach out      ║
+║     if you'd like to collaborate or chat about         ║
 ║     Laravel, DevOps, AI, or anything tech! 🚀         ║
 ║                                                        ║
 ║          Let's build something amazing together!       ║
