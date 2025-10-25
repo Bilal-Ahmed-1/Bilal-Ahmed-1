@@ -1028,3 +1028,6 @@ Current Focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+# 🐍 Contribution 
+![snake gif](https://github.com/Bilal-Ahmed-1/Bilal-Ahmed-1/blob/output/github-contribution-grid-snake-dark.svg)
