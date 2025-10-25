@@ -14,17 +14,17 @@
 
 <!-- Animated Badges -->
 <p align="center">
-  <a href="https://github.com/BilalAhmed-Dev" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=BilalAhmed-Dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/Bilal-Ahmed-1" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Bilal-Ahmed-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/BilalAhmed-Dev?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/BilalAhmed-Dev?label=Followers&style=for-the-badge&color=blue&logo=github&logoColor=white" alt="GitHub Followers"/>
+  <a href="https://github.com/Bilal-Ahmed-1?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Bilal-Ahmed-1?label=Followers&style=for-the-badge&color=blue&logo=github&logoColor=white" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/BilalAhmed-Dev?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&style=for-the-badge&color=yellow&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BilalAhmed-Dev" alt="Total Stars"/>
+  <a href="https://github.com/Bilal-Ahmed-1?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&style=for-the-badge&color=yellow&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Bilal-Ahmed-1" alt="Total Stars"/>
   </a>
-  <a href="https://github.com/BilalAhmed-Dev" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/BilalAhmed-Dev/BilalAhmed-Dev?label=Last%20Updated&style=for-the-badge&color=brightgreen&logo=github" alt="Last Updated"/>
+  <a href="https://github.com/Bilal-Ahmed-1" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/Bilal-Ahmed-1/Bilal-Ahmed-1?label=Last%20Updated&style=for-the-badge&color=brightgreen&logo=github" alt="Last Updated"/>
   </a>
 </p>
 
@@ -36,7 +36,7 @@
   <a href="mailto:bilalahmed082000@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
-  <a href="https://github.com/BilalAhmed-Dev">
+  <a href="https://github.com/Bilal-Ahmed-1">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 </p>
@@ -341,27 +341,27 @@ console.log(`${bilalAhmed.role} ready to innovate! 🚀`);
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BilalAhmed-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAhmed-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bilal-Ahmed-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-Ahmed-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <br>
 
 <!-- Language Stats and Activity Graph -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAhmed-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=BilalAhmed-Dev&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="Contributor Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Ahmed-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Bilal-Ahmed-1&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="Contributor Stats"/>
 </p>
 
 <br>
 
 <!-- Full Width Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAhmed-Dev&custom_title=📈%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Ahmed-1&custom_title=📈%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" width="95%" alt="Activity Graph"/>
 
 <br><br>
 
 <!-- Detailed Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilalAhmed-Dev&theme=tokyonight" width="95%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilal-Ahmed-1&theme=tokyonight" width="95%" alt="Profile Summary"/>
 
 <br>
 
@@ -476,7 +476,7 @@ jobs:
 - Wait for completion ✅
 
 #### 6️⃣ Update Your README
-Replace `BilalAhmed-Dev` with your GitHub username in the image URLs
+Replace `Bilal-Ahmed-1` with your GitHub username in the image URLs
 
 ✨ **Done! Your snake will now auto-update every 12 hours!**
 
@@ -497,13 +497,13 @@ Replace `BilalAhmed-Dev` with your GitHub username in the image URLs
 <br><br>
 
 <!-- Project Cards - Replace with your actual repositories -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=BilalAhmed-Dev&repo=laravel-ecommerce-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/BilalAhmed-Dev/laravel-ecommerce-api)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=BilalAhmed-Dev&repo=ai-chatbot-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/BilalAhmed-Dev/ai-chatbot-backend)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Bilal-Ahmed-1&repo=laravel-ecommerce-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/Bilal-Ahmed-1/laravel-ecommerce-api)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Bilal-Ahmed-1&repo=ai-chatbot-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/Bilal-Ahmed-1/ai-chatbot-backend)
 
 <br>
 
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=BilalAhmed-Dev&repo=microservices-architecture&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/BilalAhmed-Dev/microservices-architecture)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=BilalAhmed-Dev&repo=devops-automation-scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/BilalAhmed-Dev/devops-automation-scripts)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Bilal-Ahmed-1&repo=microservices-architecture&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/Bilal-Ahmed-1/microservices-architecture)
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=Bilal-Ahmed-1&repo=devops-automation-scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)](https://github.com/Bilal-Ahmed-1/devops-automation-scripts)
 
 <br>
 
@@ -594,10 +594,10 @@ Replace `BilalAhmed-Dev` with your GitHub username in the image URLs
 <a href="https://linkedin.com/in/bilal-ahmed-720630246" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/BilalAhmed-Dev" target="_blank">
+<a href="https://github.com/Bilal-Ahmed-1" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
-<a href="https://gitlab.com/bilalahmed-dev" target="_blank">
+<a href="https://gitlab.com/Bilal-Ahmed-1" target="_blank">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26" alt="GitLab"/>
 </a>
 <a href="https://stackoverflow.com/users/your-id" target="_blank">
@@ -625,7 +625,7 @@ Replace `BilalAhmed-Dev` with your GitHub username in the image URLs
 ### 📝 **Content & Blogging**
 
 <p align="center">
-<a href="https://medium.com/@bilalahmed-dev" target="_blank">
+<a href="https://medium.com/@Bilal-Ahmed-1" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium"/>
 </a>
 <a href="https://dev.to/bilalahmed_dev" target="_blank">
@@ -917,7 +917,7 @@ Current Focus:
 
 <br>
 
-> 📝 **Want to see more?** Visit my [Medium](https://medium.com/@bilalahmed-dev) or [Dev.to](https://dev.to/bilalahmed_dev) profile!
+> 📝 **Want to see more?** Visit my [Medium](https://medium.com/@Bilal-Ahmed-1) or [Dev.to](https://dev.to/bilalahmed_dev) profile!
 
 </div>
 
@@ -931,7 +931,7 @@ Current Focus:
 
 ### 🐱 **GitHub Skyline**
 
-<a href="https://skyline.github.com/BilalAhmed-Dev/2024">
+<a href="https://skyline.github.com/Bilal-Ahmed-1/2024">
   <img src="https://img.shields.io/badge/View_My_2024_Skyline-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 
@@ -970,13 +970,13 @@ Current Focus:
 
 <br>
 
-[![Guestbook](https://img.shields.io/badge/Sign_My_Guestbook-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwIDJINGMtMS4xIDAtMS45OS45LTEuOTkgMkwyIDIybDQtNGgxNGMxLjEgMCAyLS45IDItMlY0YzAtMS4xLS45LTItMi0yem0tMiAxMkg2di0yaDEydjJ6bTAtM0g2VjloMTJ2MnptMC0zSDZWNmgxMnYyeiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/BilalAhmed-Dev/BilalAhmed-Dev/issues/new?template=guestbook.md)
+[![Guestbook](https://img.shields.io/badge/Sign_My_Guestbook-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwIDJINGMtMS4xIDAtMS45OS45LTEuOTkgMkwyIDIybDQtNGgxNGMxLjEgMCAyLS45IDItMlY0YzAtMS4xLS45LTItMi0yem0tMiAxMkg2di0yaDEydjJ6bTAtM0g2VjloMTJ2MnptMC0zSDZWNmgxMnYyeiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/Bilal-Ahmed-1/Bilal-Ahmed-1/issues/new?template=guestbook.md)
 
 <br>
 
 <!-- Guestbook Entries -->
-<a href="https://github.com/BilalAhmed-Dev/BilalAhmed-Dev/issues?q=is%3Aissue+is%3Aopen+label%3Aguestbook">
-  <img src="https://img.shields.io/github/issues/BilalAhmed-Dev/BilalAhmed-Dev/guestbook?label=Guestbook%20Entries&style=for-the-badge&color=00D9FF" alt="Guestbook"/>
+<a href="https://github.com/Bilal-Ahmed-1/Bilal-Ahmed-1/issues?q=is%3Aissue+is%3Aopen+label%3Aguestbook">
+  <img src="https://img.shields.io/github/issues/Bilal-Ahmed-1/Bilal-Ahmed-1/guestbook?label=Guestbook%20Entries&style=for-the-badge&color=00D9FF" alt="Guestbook"/>
 </a>
 
 </div>
@@ -1012,7 +1012,7 @@ Current Focus:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=BilalAhmed-Dev&style=for-the-badge&color=00D9FF&label=Total+Profile+Views" alt="Total Views"/>
+<img src="https://komarev.com/ghpvc/?username=Bilal-Ahmed-1&style=for-the-badge&color=00D9FF&label=Total+Profile+Views" alt="Total Views"/>
 
 <br><br>
 
